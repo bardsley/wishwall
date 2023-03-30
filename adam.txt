@@ -1,3 +1,6 @@
 //start3110377595 Autumn Wind - perks from perk-o-lator https://destiny.tools/perk-o-lator
 dimwishlist:item=3110377595&perks=839105230,2420895100,2846385770,2726471870
+//end3110377595//start3110377595 Autumn Wind - perks from perk-o-lator https://destiny.tools/perk-o-lator
+dimwishlist:item=3110377595&perks=839105230,2420895100,2846385770,460017080
+dimwishlist:item=3110377595&perks=839105230,2420895100,2846385770,2726471870
 //end3110377595
